@@ -1,0 +1,74 @@
+{
+  "blogs": [
+    {
+      "title": "The Art of Photography --edit v2",
+      "description": "Photography allows us to capture the beauty of the world around us, one frame at a time.",
+      "image": "https://images.unsplash.com/photo-1470071459604-3b5ec3a7fe05?q=80&w=1948&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "createdAt": "2024-11-16T09:00:00.000Z",
+      "id": "1"
+    },
+    {
+      "id": "2",
+      "title": "Exploring Nature's Beauty",
+      "description": "There is no better way to clear your mind than by taking a walk through the forest or hiking a mountain.",
+      "image": "https://images.unsplash.com/photo-1549558549-415fe4c37b60?q=80&w=2019&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "createdAt": "2024-11-16T09:30:00.000Z"
+    },
+    {
+      "id": "3",
+      "title": "Urban Exploration",
+      "description": "Exploring the streets of bustling cities and hidden alleys reveals secrets that are often overlooked.",
+      "image": "https://images.unsplash.com/photo-1557360798-c91519105dd7?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1yZWxhdGVkfDV8fHxlbnwwfHx8fHw%3D",
+      "createdAt": "2024-11-16T10:00:00.000Z"
+    },
+    {
+      "id": "4",
+      "title": "The Journey of Creativity",
+      "description": "Every artist has a journey, filled with moments of inspiration and challenges to overcome.",
+      "image": "https://picsum.photos/500/300?random=4",
+      "createdAt": "2024-11-16T10:30:00.000Z"
+    },
+    {
+      "id": "5",
+      "title": "Traveling the World",
+      "description": "The world is a beautiful place, and every new place you visit has its own story to tell.",
+      "image": "https://images.unsplash.com/photo-1518623489648-a173ef7824f3?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1yZWxhdGVkfDI3fHx8ZW58MHx8fHx8",
+      "createdAt": "2024-11-16T11:00:00.000Z"
+    },
+    {
+      "id": "6",
+      "title": "Inspiring Minimalism",
+      "description": "Simplicity is the ultimate sophistication. A minimalistic design can say more with less.",
+      "image": "https://images.unsplash.com/photo-1475598322381-f1b499717dda?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1yZWxhdGVkfDMzfHx8ZW58MHx8fHx8",
+      "createdAt": "2024-11-16T11:30:00.000Z"
+    },
+    {
+      "id": "7",
+      "title": "Delight in Everyday Moments",
+      "description": "The little moments in life are often the most precious. Savor them.",
+      "image": "https://picsum.photos/500/300?random=7",
+      "createdAt": "2024-11-16T12:00:00.000Z"
+    },
+    {
+      "id": "8",
+      "title": "The Spirit of Adventure",
+      "description": "Adventure isn't just about travel, it's about discovering new perspectives and challenges.",
+      "image": "https://images.unsplash.com/photo-1515984977862-1c7201ef324d?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1yZWxhdGVkfDQzfHx8ZW58MHx8fHx8",
+      "createdAt": "2024-11-16T12:30:00.000Z"
+    },
+    {
+      "id": "9",
+      "title": "Capturing the Essence of Nature",
+      "description": "Nature has a way of speaking to those who are willing to listen. Photography helps us capture its message.",
+      "image": "https://images.unsplash.com/photo-1487252015168-776961549aca?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1yZWxhdGVkfDYyfHx8ZW58MHx8fHx8",
+      "createdAt": "2024-11-16T13:00:00.000Z"
+    },
+    {
+      "id": "10",
+      "title": "Street Art and Expression",
+      "description": "Street art represents more than just graffiti; it's a canvas for urban expression and individuality.",
+      "image": "https://plus.unsplash.com/premium_photo-1673697240037-404e3567b9ca?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1yZWxhdGVkfDY3fHx8ZW58MHx8fHx8",
+      "createdAt": "2024-11-16T13:30:00.000Z"
+    }
+  ]
+}
